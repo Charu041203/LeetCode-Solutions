@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 ## String Matching
 |  |
 | ------- |
@@ -61,4 +62,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
