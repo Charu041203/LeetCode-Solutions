@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0047-permutations-ii](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Charu041203/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Charu041203/LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Charu041203/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Bit Manipulation
 |  |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
