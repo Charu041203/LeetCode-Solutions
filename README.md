@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0047-permutations-ii](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0455-assign-cookies](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -73,12 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
