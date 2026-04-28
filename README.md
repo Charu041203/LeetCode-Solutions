@@ -136,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
