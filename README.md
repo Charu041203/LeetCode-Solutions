@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0322-coin-change) |
 ## Greedy
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Union-Find
