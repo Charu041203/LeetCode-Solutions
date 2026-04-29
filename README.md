@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 ## String Matching
 |  |
 | ------- |
