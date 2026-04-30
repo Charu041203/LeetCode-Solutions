@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
+| [1045-customers-who-bought-all-products](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1193-monthly-transactions-i](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1280-students-and-examinations) |
 ## Stack
