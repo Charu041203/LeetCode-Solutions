@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1193-monthly-transactions-i](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1280-students-and-examinations) |
+| [1341-movie-rating](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1341-movie-rating) |
 ## Stack
 |  |
 | ------- |
