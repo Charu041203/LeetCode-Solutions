@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0396-rotate-function](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0860-lemonade-change) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0279-perfect-squares](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0279-perfect-squares) |
+| [0396-rotate-function](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Charu041203/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Charu041203/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Charu041203/LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0396-rotate-function](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Charu041203/LeetCode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
