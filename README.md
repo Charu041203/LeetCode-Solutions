@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Charu041203/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Charu041203/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0394-decode-string](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 ## Tree
 |  |
 | ------- |
