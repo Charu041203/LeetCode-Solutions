@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0135-candy](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0279-perfect-squares](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0396-rotate-function) |
