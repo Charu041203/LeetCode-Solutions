@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0394-decode-string](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0796-rotate-string](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0796-rotate-string) |
 ## Array
 |  |
 | ------- |
