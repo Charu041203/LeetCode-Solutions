@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1861-rotating-the-box](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Charu041203/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Charu041203/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Charu041203/LeetCode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Charu041203/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Charu041203/LeetCode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Charu041203/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
