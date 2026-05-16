@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0394-decode-string](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0796-rotate-string) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0279-perfect-squares](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0396-rotate-function) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0067-add-binary) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Charu041203/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Dynamic Programming
