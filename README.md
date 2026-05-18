@@ -290,5 +290,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
