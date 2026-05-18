@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0071-simplify-path) |
+| [0087-scramble-string](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0087-scramble-string) |
 | [0394-decode-string](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0796-rotate-string) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0063-unique-paths-ii](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0087-scramble-string](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0087-scramble-string) |
 | [0152-maximum-product-subarray](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0279-perfect-squares) |
