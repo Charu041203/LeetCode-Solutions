@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0860-lemonade-change](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1306-jump-game-iii](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1345-jump-game-iv](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1345-jump-game-iv) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Charu041203/LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Sliding Window
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [1306-jump-game-iii](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Union-Find
