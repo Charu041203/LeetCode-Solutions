@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0087-scramble-string](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0394-decode-string](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0796-rotate-string) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 ## Database
 |  |
 | ------- |
