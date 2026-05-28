@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Charu041203/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2485-find-the-pivot-integer](https://github.com/Charu041203/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Charu041203/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [1340-jump-game-v](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1340-jump-game-v) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Charu041203/LeetCode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/Charu041203/LeetCode-Solutions/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Charu041203/LeetCode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -364,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/Charu041203/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
+## Combinatorics
+|  |
+| ------- |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 <!---LeetCode Topics End-->
