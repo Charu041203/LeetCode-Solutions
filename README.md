@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0279-perfect-squares) |
