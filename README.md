@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0300-longest-increasing-subsequence](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0396-rotate-function) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0396-rotate-function) |
@@ -372,4 +374,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
