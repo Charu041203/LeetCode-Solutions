@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0396-rotate-function) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Charu041203/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
