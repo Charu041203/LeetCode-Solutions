@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0636-exclusive-time-of-functions](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0636-exclusive-time-of-functions) |
+| [0812-largest-triangle-area](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0860-lemonade-change](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1306-jump-game-iii](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0788-rotated-digits) |
+| [0812-largest-triangle-area](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Charu041203/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Sorting
