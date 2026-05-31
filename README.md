@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Charu041203/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
 |  |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 ## Linked List
 |  |
 | ------- |
