@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Charu041203/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
