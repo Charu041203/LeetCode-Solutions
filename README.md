@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0069-sqrtx) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0087-scramble-string](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0091-decode-ways) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Charu041203/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Charu041203/LeetCode-Solutions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 ## Enumeration
 |  |
